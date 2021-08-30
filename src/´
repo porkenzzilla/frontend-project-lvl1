@@ -1,0 +1,16 @@
+import playTheGame from "/secondary/theGame.js";
+import readlineSync from 'readline-sync';
+
+const random = Math.floor(Math.random() *100);
+
+const parity = (num) =>  num % 2 === 0;
+
+const generateQuestionAnswer = () => {
+	        const questionAndAnswer = `Is ${random} an even number?\nYour answer: `;
+	        const correctAnswer = parity(random) ? "yes" : "no";
+return [ questionAndAnswer, correctAnswer ];
+};
+
+const rules = 'Answer "yes" if the number is even, otherwise answer "no".';
+
+export default () => playTheGame(generateQuestionAnswer, rules);
