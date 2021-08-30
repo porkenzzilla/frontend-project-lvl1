@@ -1,13 +1,13 @@
-import theGame from '../src/secondary/theGame.js';
-import randomNumber from '../src/secondary/randomNumber.js';
+import theGame from './secondary/theGame.js';
+import randomNumber from './secondary/randomNumber.js';
 
-const parity = (num) =>  num % 2 === 0;
+const parity = (num) => num % 2 === 0;
 
 const generateQuestionAnswer = () => {
-	        const questionNumber = randomNumber();
-	        const questionAndAnswer = `Is ${questionNumber} an even number?\nYour answer: `;
-	        const correctAnswer = parity(questionNumber) ? "yes" : "no";
-return [ questionAndAnswer, correctAnswer ];
+  const questionNumber = randomNumber();
+  const questionAndAnswer = `Is ${questionNumber} an even number?\nYour answer: `;
+  const correctAnswer = parity(questionNumber) ? 'yes' : 'no';
+  return [questionAndAnswer, correctAnswer];
 };
 
 const rules = 'Answer "yes" if the number is even, otherwise answer "no".';
