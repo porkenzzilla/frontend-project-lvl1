@@ -1,5 +1,5 @@
-import theGame from './secondary/theGame.js';
-import randomNumber from './secondary/randomNumber.js';
+import theGame from '../secondary/theGame.js';
+import randomNumber from '../secondary/randomNumber.js';
 
 const parity = (num) => num % 2 === 0;
 
