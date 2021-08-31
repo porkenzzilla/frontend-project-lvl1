@@ -9,7 +9,7 @@ Clone this repository and write `sudo npm link`. Of course if you have already i
 
 ### How to play?
 
-Write in your console `brain-even` or `brain-calc`. Answer the questions correctly and good luck to you.
+Write in your console `brain-even`, `brain-calc` or `brain-gcd`. Answer the questions correctly and good luck to you.
 
 ### Video demonstrations:
 
@@ -20,3 +20,6 @@ _(You don't need to write "exit" at the end)_
 
 • **brain-calc** demonstration:
 [![asciicast](https://asciinema.org/a/FfWj9XLZ6OHdnhFHZS6CuCOs0.svg)](https://asciinema.org/a/FfWj9XLZ6OHdnhFHZS6CuCOs0)
+
+• **brain-gcd** demonstration:
+[![asciicast](https://asciinema.org/a/Byx2IzkbLBEJSVzcK5AfseLzU.svg)](https://asciinema.org/a/Byx2IzkbLBEJSVzcK5AfseLzU)
