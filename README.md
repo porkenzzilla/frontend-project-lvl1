@@ -5,11 +5,11 @@
 
 ### Installation:
 
-Clone this repository and write _(sudo npm link)_. Of course if you have already installed Node.js.
+Clone this repository and write `_sudo npm link_`. Of course if you have already installed Node.js.
 
 ### How to play?
 
-Write in your console _(brain-even)_ or _(brain-calc)_. Answer the questions correctly and good luck to you.
+Write in your console `_brain-even_` or `_brain-calc_`. Answer the questions correctly and good luck to you.
 
 ### Video demonstrations:
 
