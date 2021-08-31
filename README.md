@@ -9,3 +9,6 @@
 
 • Installation from the local repository and brain-even demonstration:
 [![asciicast](https://asciinema.org/a/hFaH1vi3he5W3DvOtZEXmJLPr.svg)](https://asciinema.org/a/hFaH1vi3he5W3DvOtZEXmJLPr)
+
+• brain-calc demonstration:
+[![asciicast](https://asciinema.org/a/FfWj9XLZ6OHdnhFHZS6CuCOs0.svg)](https://asciinema.org/a/FfWj9XLZ6OHdnhFHZS6CuCOs0)
