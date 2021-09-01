@@ -17,7 +17,7 @@ Write in your console `brain-even`, `brain-calc`, `brain-gcd`, `brain-progressio
 
 _(You don't need to write "exit" at the end)_
 
-• Installation from the local repository and **brain-even** demonstration:
+• **brain-even** demonstration:
 [![asciicast](https://asciinema.org/a/hFaH1vi3he5W3DvOtZEXmJLPr.svg)](https://asciinema.org/a/hFaH1vi3he5W3DvOtZEXmJLPr)
 
 • **brain-calc** demonstration:
