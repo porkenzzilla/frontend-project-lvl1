@@ -1,3 +1,5 @@
+#BRAIN-GAMES :video_game:
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/oli4ka14/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/oli4ka14/frontend-project-lvl1/actions)
 <a href="https://codeclimate.com/github/porkenzzilla/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/7ae9af3620320f5f15fd/maintainability" /></a>
@@ -9,7 +11,7 @@ Clone this repository and write `sudo npm link`. Of course if you have already i
 
 ### How to play?
 
-Write in your console `brain-even`, `brain-calc`, `brain-gcd` or `brain-progression`. Answer the questions correctly and good luck to you.
+Write in your console `brain-even`, `brain-calc`, `brain-gcd`, `brain-progression` or `brain-prime`. Answer the questions correctly and good luck to you.:four_leaf_clover:
 
 ### Video demonstrations:
 
@@ -26,3 +28,6 @@ _(You don't need to write "exit" at the end)_
 
 • **brain-progression** demonstration:
 [![asciicast](https://asciinema.org/a/yEk1YaBQFUtqA9MNneZmHcE7B.svg)](https://asciinema.org/a/yEk1YaBQFUtqA9MNneZmHcE7B)
+
+• **brain-prime** demonstration:
+[![asciicast](https://asciinema.org/a/bxl3pvdwpiwMKNZUS0os8QAi9.svg)](https://asciinema.org/a/bxl3pvdwpiwMKNZUS0os8QAi9)
